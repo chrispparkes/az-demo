@@ -9,7 +9,11 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           Hello World!
+<<<<<<< HEAD
           Again...
+=======
+          Again.
+>>>>>>> e7a06bf714487098be8486db9da6fa4ede2980bd
         </p>
         <a
           className="App-link"
