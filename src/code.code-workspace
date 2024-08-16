@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "Flatris_Demo_Git",
+			"path": "../../../Flatris/Flatris_Demo_Git"
+		}
+	],
+	"settings": {}
+}
